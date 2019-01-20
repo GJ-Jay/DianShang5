@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="image_dp">100dp</dimen>
+    <dimen name="top_dp">6dp</dimen>
+    <dimen name="img_size">45dp</dimen>
+    <dimen name="banner_height">350dp</dimen>
+    <dimen name="top10_dp">10dp</dimen>
+    <dimen name="top20_dp">20dp</dimen>
+</resources>
